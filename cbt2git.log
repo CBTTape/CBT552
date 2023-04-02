@@ -1,0 +1,6 @@
+2023-04-03 01:07:27.766711 - Initialized conversion of CBT552
+2023-04-03 01:07:27.807602 - Received CBT.V504.FILE552.PDS from FILE552.XMI 
+2023-04-03 01:07:27.810013 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE552.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:07:27.811679 - Found $ANACOB2.txt (text/plain) in CBT.V504.FILE552.PDS, moved to PDS/$ANACOB2
+2023-04-03 01:07:27.812975 - Found @FILE552.txt (text/plain) in CBT.V504.FILE552.PDS, moved to PDS/@FILE552
+2023-04-03 01:07:27.814055 - Found ANACOB2.txt (text/plain) in CBT.V504.FILE552.PDS, moved to PDS/ANACOB2
